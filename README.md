@@ -5,7 +5,7 @@ to connect with the server. The session terminates when client sends BYE to the 
 
 Classes :  
 
-<b>ServerDriver :</b> The main program that assigns one thread per client accepted
+<b>ServerDriver :</b> The main program that assigns one thread per client accepted  
 <b>MyServer     :</b> Server code  
 <b>MyClient     :</b> Client code
 
