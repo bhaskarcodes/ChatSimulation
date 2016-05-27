@@ -7,7 +7,7 @@
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
-public class ServerDriver   //new multithreaded server   
+public class ServerDriver    
 {
    int i;
     public static void main(String[] args )
