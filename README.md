@@ -13,9 +13,9 @@ To run the program :
 
 <b>
 javac ServerDriver.java  
-java ServerDriver <port-number>
+java ServerDriver \<port-number\>
 
 
 javac MyClient.java  
-java MyClient <server's IP Address> <port-number>
+java MyClient \<server's IP Address\> \<port-number\>
 </b>
